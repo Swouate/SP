@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="61174605-a744-46d0-b0e7-1288890896c6" 
+        solutionId="61174605-a744-46d0-b0e7-1288890896c6" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="GHTest"
+        sharePointProductVersion="15.0">
+</package>
